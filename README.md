@@ -4,6 +4,8 @@
 
 💻 Python | 🖥️ C++ | 🎤 Singing
 
+---
+
 I’m currently studying for a BA in Computer Science. As I'm still learning, any feedback would be greatly appreciated :)
 
 
