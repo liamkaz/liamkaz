@@ -2,9 +2,9 @@
 
 ---
 
-💻🎤 I’m currently studying for a BA in Computer Science and also minoring in Voice performance.
+💻 Python | 🖥️ C++ | 🎤 Singing
 
-🧠 As I'm still learning, any feedback would be greatly appreciated.
+I’m currently studying for a BA in Computer Science. As I'm still learning, any feedback would be greatly appreciated :)
 
 
 
