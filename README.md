@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Liam.
 
+---
+
 💻🎤 I’m currently studying for a BA in Computer Science and also minoring in Voice performance.
 
 🧠 As I'm still learning, any feedback would be greatly appreciated.
