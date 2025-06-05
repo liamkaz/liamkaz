@@ -6,7 +6,7 @@
 
 ---
 
-#### I’m currently studying for a BA in Computer Science. 
+#### I’m currently studying for a BA in Computer Science at Denison University. 
 
 As I'm still learning, any feedback would be greatly appreciated :)
 
