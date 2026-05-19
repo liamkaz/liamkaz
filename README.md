@@ -6,9 +6,9 @@
 
 ---
 
-#### I’m currently studying for a BA in Computer Science at Denison University. 
+#### I’m a new graduate with a BA in Computer Science from Denison University. 
 
-As I'm still learning, any feedback would be greatly appreciated :)
+I'm interested in Software Engineering, and am currently on the search for a job.
 
 
 
